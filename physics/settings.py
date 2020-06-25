@@ -26,7 +26,7 @@ SECRET_KEY = 'osv(1c#tp7xg7xry#p-d-*dl3+n!0&av1*k*s+tl(#+9@9*ir$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
